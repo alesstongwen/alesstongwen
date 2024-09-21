@@ -4,12 +4,9 @@ Welcome to my GitHub profile! I'm a passionate web developer with a love for bui
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Next.js**, **Tailwind CSS**, and **TypeScript**
-- 💼 I’m a web developer with experience in **React**, **Vue.js**, **Node.js**, and **MongoDB**
-- 🔭 Working on my latest project: **[Project Name](https://yourprojectlink.com)**
-- 🛠️ Also working on a side project involving **APIs**, **microservices**, and **Docker**
+- 🌱 Currently learning **Next.js**, **C#**, and **React**
+- 💼 I’m a web developer with experience in **JavaScript**, **TypeScript**, **Node.js**, **MySQL** and **MongoDB**
 - 🎓 I have a background in **computer science** and love to explore new technologies
-- ⚡ Fun fact: I enjoy gaming and sometimes dabble in game development
 
 ## 🛠️ Skills & Technologies
 
@@ -18,11 +15,9 @@ Welcome to my GitHub profile! I'm a passionate web developer with a love for bui
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### **Frameworks & Libraries:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -45,8 +40,8 @@ Welcome to my GitHub profile! I'm a passionate web developer with a love for bui
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://yourportfoliolink.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aless-wei/)
+// [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://yourportfoliolink.com)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or chat! 😊
 
