@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a love for bui
 
 ## 📈 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=alesstongwen&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
