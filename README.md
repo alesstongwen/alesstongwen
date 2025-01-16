@@ -34,14 +34,11 @@ Welcome to my GitHub profile! I'm a passionate in full stack developing with a l
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-## 📈 GitHub Stats
-
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=alesstongwen&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aless-wei/)
-// [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://yourportfoliolink.com)
+//[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://yourportfoliolink.com)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or chat! 😊
 
