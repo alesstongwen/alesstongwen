@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Aless!
 
-Welcome to my GitHub profile! I'm a passionate web developer with a love for building responsive, user-friendly websites and applications. I enjoy working across the full web stack and am always looking to learn and collaborate on exciting projects.
+Welcome to my GitHub profile! I'm a passionate in full stack developing with a love for building responsive, user-friendly websites or applications. I enjoy working across the full web stack and am always looking to learn and collaborate on exciting projects.
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Next.js**, **C#**, and **React**
+- 🌱 Currently learning **C#**, **WordPress** and **PHP**
 - 💼 I’m a web developer with experience in **JavaScript**, **TypeScript**, **Node.js**, **MySQL** and **MongoDB**
-- 🎓 I have a background in **computer science** and love to explore new technologies
+- 🎓 I have a background in **SEO**, **Communication/Digital Media** and love to explore new technologies
 
 ## 🛠️ Skills & Technologies
 
