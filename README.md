@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate in full stack developing with a l
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **C#**, **WordPress** and **PHP**
-- 💼 I’m a web developer with experience in **JavaScript**, **TypeScript**, **Node.js**, **MySQL** and **MongoDB**
+- 🌱 Currently learning **C#**, **WordPress**, **PHP**, and **Laravel**
+- 💼 I’m a web developer with experience in **JavaScript**, **TypeScript**, **Node.js**, **MySQL**, **SQLite** and **MongoDB**
 - 🎓 I have a background in **SEO**, **Communication/Digital Media** and love to explore new technologies
 
 ## 🛠️ Skills & Technologies
