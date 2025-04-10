@@ -15,8 +15,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,docker,cs, bun, css, html, figma, firebase, git, js, laravel, md, mongodb, nextjs, nodejs, ps, npm, postgres, postman, prisma, react, sqlite, supabase, svelte, tailwind, visualstudio, vite, vscode, wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,react,js" />
   </a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alesstongwen&show_icons=true&locale=en&layout=compact" alt="alesstongwen" /></p>
 
