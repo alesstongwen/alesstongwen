@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aless</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate in full stack developing with a love for building responsive, user-friendly websites or applications. I enjoy working across the full web stack and am always looking to learn and collaborate on exciting projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alesstongwen" alt="alesstongwen" /></a> </p>
 
 - 🔭 I’m currently working on [AI workout generator](https://ai-workout-guide-dm6k-nn89hzivm-alesstongwens-projects.vercel.app/)
 
