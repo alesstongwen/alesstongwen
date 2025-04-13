@@ -49,10 +49,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,wordpress" />
   </a>  
-  
- 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alesstongwen&show_icons=true&locale=en&layout=compact" alt="alesstongwen" /></p>
+  <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alesstongwen&show_icons=true&locale=en" alt="alesstongwen" /></p>
 
