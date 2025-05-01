@@ -2,7 +2,7 @@
 <h3>Welcome to my GitHub profile! I'm a passionate in full stack developing with a love for building responsive, user-friendly websites or applications. I enjoy working across the full web stack and am always looking to learn and collaborate on exciting projects.</h3>
 
 
-- 🔭 I’m currently working on [AI workout generator](https://ai-workout-guide-dm6k-nn89hzivm-alesstongwens-projects.vercel.app/)
+- 🔭 I’m currently working on getting my project hosted and fix minor error that I missed while I built them. 
 
 - 🌱 I’m currently learning **C# MVC, Wordpress, PHP, Laravel**
 
